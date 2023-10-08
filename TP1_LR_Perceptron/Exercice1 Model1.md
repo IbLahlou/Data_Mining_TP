@@ -1,4 +1,7 @@
 
+Nom : Ibrahim Lahlou
+****
+
 1. Comment varie $mse$ à partir de l'itération 0 à l'iération 30?
 
 En utilisant l'algorithme Gradient Descent , l'ajustement $w_1$ au début commence a diminuer progressivement le $mse$ jusqu'a 30
