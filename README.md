@@ -8,4 +8,7 @@ This repository contains materials related to a Data Mining project. Data Mining
 - **Author**: Ibrahim Lahlou
 
 # TPs Available
-- TP1 Linear Regression Using One Neurone
+
+- [[TP_1_Linéaire_regression]]
+- [[TP_2_Logistic_Regression]]
+- 
